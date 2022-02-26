@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles, of a treatie of truce. Made and concluded in the towne and citie of Antvverp, the 9. of April 1609. betweene the commissioners of the most excellent Princes, Arch-dukes Albert and Isabella Clara Eugenia, as well in the name of the Catholicke Kings Maiestie, as in their owne. Together with the commissioners and deputies of the renowmed Lords, the Estates Generall of the Vnited Prouinces of the Low-countryes and that through the mediation and with the aduice of the Lords Ambassadors of the most Christian Kings, and of Great Britaine. At the Haghe by Hillebrant Iacobz, printer ordinarie to the Lords of the States Generall of the Vnited Prouinces of the Low-countreyes.</title>
+            <title>Treaties, etc. United Provinces of the Netherlands. Staten Generaal, 1609 Apr. 9</title>
+            <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1609</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72935</idno>
+            <idno type="STC">STC 18455.7</idno>
+            <idno type="STC">ESTC S113147</idno>
+            <idno type="EEBO-CITATION">99848386</idno>
+            <idno type="PROQUEST">99848386</idno>
+            <idno type="VID">152001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 674:8 or 2012:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles, of a treatie of truce. Made and concluded in the towne and citie of Antvverp, the 9. of April 1609. betweene the commissioners of the most excellent Princes, Arch-dukes Albert and Isabella Clara Eugenia, as well in the name of the Catholicke Kings Maiestie, as in their owne. Together with the commissioners and deputies of the renowmed Lords, the Estates Generall of the Vnited Prouinces of the Low-countryes and that through the mediation and with the aduice of the Lords Ambassadors of the most Christian Kings, and of Great Britaine. At the Haghe by Hillebrant Iacobz, printer ordinarie to the Lords of the States Generall of the Vnited Prouinces of the Low-countreyes.</title>
+                  <title>Treaties, etc. United Provinces of the Netherlands. Staten Generaal, 1609 Apr. 9</title>
+                  <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal. Treaties, etc. Netherlands. Sovereign (1598-1621 : Albert and Isabella), 1609 Apr. 9.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by John Windet] for George Potter and Nicholas Brovvne [i.e. Bourne] and are to bee sold at his shoppe vnder the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>The first leaf is blank except for signature-mark "A"; the last leaf is blank.</note>
+                  <note>Running title reads: Articles of truce.</note>
+                  <note>A variant (STC 18456) has "Brovvne" corrected to "Bourne" in imprint.</note>
+                  <note>Identified as STC 18456a on reel 674.</note>
+                  <note>Reproduction of the originals in the Folger Shakespeare Library and the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  Twelve Years' Truce, 1609-1621 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152001:1" rendition="simple:additions"/>
+            <pb facs="tcp:152001:2"/>
+            <pb facs="tcp:152001:2"/>
+            <p>ARTICLES OF A TREATIE OF TRVCE.</p>
+            <p>Made and concluded in the Towne and C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tie of ANTVVERP, the 9. of April 1609. betwee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Commiſſioners of the moſt Excellent Princes, Arch<g ref="char:EOLhyphen"/>dukes ALBERT and ISABELLA CLARA EVGENIA, as well in the name of the Ca<g ref="char:EOLhyphen"/>tholicke KINGS Maieſtie, as in their owne.</p>
+            <p>Together with the Commiſsioners and Deputies the renowmed LORDS, the Eſtates Generall of the Vnited Prouinces of the Low-countryes: and that through the mediation and with the aduice of the Lords Ambaſſadors of the moſt Chriſti<g ref="char:EOLhyphen"/>an Kings, and of Great BRITAINE.</p>
+            <p>AT THE HAGHE</p>
+            <p>By <hi>Hillebrant Iacobz,</hi> Printer ordinarie to the Lords the States Generall of the Vnited Prouinces of the Low-countreyes.</p>
+            <p>LONDON Printed for GEORGE POTTER and NICHOLAS BROVVN and are to bee ſold at his Shoppe vnder the Royall Exchange. 1609.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152001:3"/>
+            <pb facs="tcp:152001:3" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O it is, that the moſt excellent Princes, Archduke <hi>Albert</hi> and <hi>Iſabella Clara Eugenia, &amp;c.</hi> hauing vpon the foure &amp; twentie of April, 1607. made a Truce and Ceſſation of Armes, for eight mo<g ref="char:EOLhyphen"/>neths, with the moſt renowmed Lords the generall Eſtates of the vnited Prouinces of the Low-Countries in qualitie, and as holding them for free Eſtates, Prouinces and Countries; ouer the which, they pretend no authority: The which Truce ought to be ratified with like declaration, by the Catholike Kings Maieſtie, for ſo much as might concerne him; and the ſaid ratifi<g ref="char:EOLhyphen"/>cations and declarations deliuered to the ſaid Lords Eſtates, three moneths after the ſaid Truce, as it is paſſed by Letters Pa<g ref="char:EOLhyphen"/>tents of the eighteenth of September the ſaid yeare: And fur<g ref="char:EOLhyphen"/>ther, giueth a ſpeciall procuration to the ſaid Lords Archdukes, of the tenth of Ianuarie <hi>1608.</hi> aſwell in his name as in their owne, to doe all that they ſhall iudge to bee fitte and conuenient, to attaine to a good Peace or Truce for many yeares. By vertue of which procuration, the ſaid Lordes Archdukes ſhould alſo by their letters of Commiſsion, of the <hi>27.</hi> of the ſame moneth name and depute Commiſsioners, for to conferre and entreat in the ſaid names and qualities: and hereupon haue conſented and a<g ref="char:EOLhyphen"/>greed, that the ſaid Truce ſhould bee prolonged and continued at
+<pb facs="tcp:152001:4"/>
+ſundrie times: namely, the <hi>20.</hi> of May, vnto the end of the ſaid yeare <hi>1608.</hi>
+            </p>
+            <p>But after they had aſſembled themſelues diuers times with the deputies of the ſaid Lords Eſtates, who had alſo procuration &amp; Commiſsion from them, dated the <hi>5.</hi> of February of the ſaid yeare: they could not come to agree of the ſaid Peace, for many great difficulties hapning among them: For which cauſe, the Lords Ambaſſadors of the moſt Chriſtian Kings, and of great Britayne, of the Princes electors Palatine and Brandenburg, Marques of Ansbach, and Lantgraue of Heſſen, ſent thither on the behalfe of the ſaid Lords, Kings and Princes, to the aide, and furtherance of ſo good a worke: ſeeing that they were readie to depart and to break off al Treaty; did propoſe a Truce for many yeares, on certaine conditions contained in a writing, by them deliuered to both parties, with entreaty and exhortation to agree thereunto. Vpon the which writing, many other difficulties likewiſe hapning.</p>
+            <p>In the end, this ninth day of April, in the yeare <hi>1609.</hi> there aſſembled Seignior <hi>Ambroſio Spinola,</hi> Marques de <hi>Benafro,</hi> Knight of the order of the Golden Fleece, Counſellor of Eſtate, and of the Warres to his Catholike Maieſtie, Maſter of the Camp, Generall of his Armies: and Seignior <hi>Iohn Richardot</hi> Knight, Lord of Barby, Counſellor of Eſtate, and chiefe Preſi<g ref="char:EOLhyphen"/>dent of their Highneſſes priuie Counſell: <hi>Iohn de Mancicidor,</hi> of the Counſell of warre, and Secretary to his ſaid Catholike Ma<g ref="char:EOLhyphen"/>ieſtie. The reuerend father frier <hi>Iohn Neyen,</hi> Commiſsioner generall of the order of Saint <hi>Francis</hi> in the Low-Countries: and Seignior <hi>Loys Verreyken</hi> Knight, Maſter of the re<g ref="char:EOLhyphen"/>queſts and chiefe Secretary to their Highneſſes, &amp;c. By vertue of the letters of procuration from the ſaid Lords Archdukes, to treat as well in their names, as in the name of the Lord King
+<pb facs="tcp:152001:4" rendition="simple:additions"/>
+Catholike; the tenor of which procuration is hereafter inſerted: with the like alſo of the ſaid Kings on the one part, and Seignior <hi>Loys</hi> Earle of Naſsaw, <hi>Catzenellebogen, Vyanden Dietz &amp;c.</hi> Lord of Bilſteyn, Gouernour and Captaine gene-ral of Frize, the Citie of Groeningen and Ommelanden Drente, &amp;c. Seignior <hi>Walrauen</hi> Lord of Bredero, Vianen, Vicounte of Vtrecht, L. of Ameyden, Cloetengen, &amp;c. The L. <hi>Cornelius</hi> of <hi>Gendt,</hi> Lord of Loeuen and Meynerſwick, Vicount &amp; Iudge of the Empire, and of the Citie of Nuninegen: Seig. <hi>Iehan</hi> of Oldenbarneuelt Knight, Lord of Cimpell, Rodenris, &amp;c. Aduocate and keeper of the great Seale, Charters and Regiſters of Holland and Weſt-Frizeland: Seignior <hi>Iaques</hi> of Malderee Knight, Lord of Heyes, &amp;c. The chiefe, and repreſenting the Nobility of the Eſtates and Counſell of the countie of Zealand; the Lords <hi>Girard de Reneſſe,</hi> Lord <hi>Vander Aa.</hi> of <hi>Streeffkirck</hi> Niew Lecker landt, &amp;c. <hi>Iellius Hil<g ref="char:EOLhyphen"/>lena</hi> Doctor of the lawes, Counſellor ordinary of the Counſell of Frize: <hi>Iohn Sloeten</hi> Lord of Sallicq, Droſſart of the County of Vellenhoo, and Steward of the Seigneury of Claunder, &amp; <hi>Abel Coenders</hi> of Helpen, Lord <hi>In Faien</hi> and <hi>Cantes,</hi> in the name of the ſaid Lordes Eſtates, as alſo by vertue of their Letters of procurations and Commiſsion hereafter likewiſe inſerted on the other part; who together with the mediation and aduiſe of Lord <hi>Iohn Charles</hi> Baron of Chagnie, and <hi>Monyeu</hi> Counſellor of Eſtate to the moſt chriſtian King, and his Embaſsador extraor<g ref="char:EOLhyphen"/>dinary, with the ſaid lordes Eſtates.</p>
+            <p>And the Lord <hi>Elias de la Place</hi> Knight, lord of Ruſſy, Vi<g ref="char:EOLhyphen"/>count of Marchault, Counſellor alſo in the ſaid Counſell of Eſtate, Gentleman in ordinary of the ſaid Lord, the kings chamber, Baylife and Captaine of Vitry le <hi>Francois</hi> and his ordinarie Ambaſſador, with the ſaid lordes, the eſtates. Sir <hi>Richard Spencer</hi> knight, Gentleman in ordinarie, of the king of great
+<pb facs="tcp:152001:5"/>
+Britaynes priuie chamber, and his Ambaſsador extraordinary, vnto the ſaid Lordes the Eſtates, and Sir <hi>Raphe Winwood</hi> knight Ambaſſador ordinary, and Counſellor to the ſaid king in his Counſell of eſtate, in the vnited Prouinces, haue accorded and agreed, in the manner and forme following.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152001:5" rendition="simple:additions"/>
+            <head>ARTICLES OF TRVCE. Made in the Citie of ANTVVERP, the 9. of April 1609. betweene the Commiſsio<g ref="char:EOLhyphen"/>ners of the moſt Excellent Princes, Archdukes ALBERT and ISABELLA CLARA EVGENIA, and the Eſtates Generall of the Vnited PRO<g ref="char:EOLhyphen"/>VINCES <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the LOVV-COVNTRYES.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, the ſaid Archdukes and Dutches ſignifie and declare, not onely in their owne Names, but alſo in the Name of the King of <hi>Spaine,</hi> that they are well pleaſed and content to enter in<g ref="char:EOLhyphen"/>to Treatie with the Eſtates Generall of the Vnited Prouinces in qualitie, and as holding, accounting and eſteeming them to be free Countryes, Prouinces and Eſtates, whereunto they pre<g ref="char:EOLhyphen"/>tend not any Right or Title of Soueraigntie, and in the Names and qualities aforeſaid, at this preſent to make a
+<pb facs="tcp:152001:6"/>
+Truce with them, vpon ſuch Articles and Conditions as hereafter enſueth.</p>
+            <p>
+               <label>II.</label> That is, that the ſaid Truce ſhall bee good Firme, Loy<g ref="char:EOLhyphen"/>all and Inuiolable, and ſhall continue and indure for the ſpace of Twelue yeeres, and that during the ſaid time, there ſhall bee an abſtinence and diſcontinuance, and ceaſing from all Actes of Hoſtilitie in any manner and faſhion whatſoeuer, betweene the ſaid King of <hi>Spaine,</hi> the Arch<g ref="char:EOLhyphen"/>duke and Dutches and the States Generall, as well by Sea and in all other Waters and Riuers, as by Land in all King<g ref="char:EOLhyphen"/>doms, Countryes, Lands and Signiories, and betweene all their Subiects and Inhabitants, of what qualitie or condi<g ref="char:EOLhyphen"/>tion ſo euer they bee, without exception of place or Perſons.</p>
+            <p>
+               <label>III.</label> That either Side ſhall poſſeſſe, and effectually enioy all thoſe Countries, Townes, Places, Landes, and Signiories, which they at this preſent hold, poſſeſſe and enioy, with<g ref="char:EOLhyphen"/>out any trouble, moleſtation, or contradiction whatſoe<g ref="char:EOLhyphen"/>uer, during the continuance of the ſaid Truce, wherein it is intended and to be vnderſtood, that the Boroughs, Vil<g ref="char:EOLhyphen"/>lages, Hamlets, and plaine Countries thereunto depend<g ref="char:EOLhyphen"/>ing, ſhall be comprehended.</p>
+            <p>
+               <label>IIII.</label> That the Subiectes and Inhabitants of the ſaid Coun<g ref="char:EOLhyphen"/>tries, belonging vnto the aforeſaid King, Archdukes, and States, ſhall haue and vſe all maner of good correſpon<g ref="char:EOLhyphen"/>dence, and amitie one with the other, during the time of the ſaid Truce, without calling to mind, or remembring any of the offences, hurts, and dammages, that they or a<g ref="char:EOLhyphen"/>ny of them haue receiued, had, and endured in the fore<g ref="char:EOLhyphen"/>paſſed
+<pb facs="tcp:152001:6" rendition="simple:additions"/>
+Warres, and troubleſome times, and ſhall and may freely frequent, inhabite, and dwell in each others Coun<g ref="char:EOLhyphen"/>tries, and there vſe and exerciſe their Trades, and trafficke of Merchandizes, with all ſecuritie, both by Sea, and in other Riuers and waters, and alſo by Land: which neuer<g ref="char:EOLhyphen"/>theleſſe the ſaid King of Spaine vnderſtandeth to bee re<g ref="char:EOLhyphen"/>ſtrayned and limitted vnto the Kingdomes, Countries, Lands, and Seignories, which he holdeth and poſſeſſeth in <hi>Europe,</hi> and in other places &amp; ſeas, where the ſubiects of the Kings and Princes that are his Friendes and Alies, haue the ſaid free trafficke: and touching the Places, Townes, Ports, and Hauens, which hee holdeth out of the Limits aforeſaid, that the ſaid States and their ſubiects, ſhall nor may not vſe any trade or trafficke there, without the li<g ref="char:EOLhyphen"/>cence and expreſſe permiſſion of the ſaid King: notwith<g ref="char:EOLhyphen"/>ſtanding, they ſhall and may freely trade and trafficke (if they thinke it good) in the Countries of all other Princes, Potentates, and People, that ſhall or will permit, ſuffer, and graunt them leaue, and that without the ſaid Limits, without any let, trouble or impeachment (of the ſaid King, his Officers and Subiectes, that depend on him) for that cauſe giuen, vnto the ſaid Princes, Potentates, and People, which haue permitted, or hereafter ſhal permit, ſuffer and grant it vnto them: nor vnto them of any of them in ge<g ref="char:EOLhyphen"/>nerall or particular, with whom they haue heretofore traf<g ref="char:EOLhyphen"/>ficked, or hereafter ſhall trafficke.</p>
+            <p>
+               <label>V.</label> And for that it is requiſite that a reaſonable long time ſhould bee granted and ſet downe, wherein to aduertiſe thoſe, that are out of the ſaid Limits with Ships and mar<g ref="char:EOLhyphen"/>tiall Forces, to deſiſt and abſtaine from all actes of hoſtili<g ref="char:EOLhyphen"/>ty; It is agreed and concluded, that the Truce aforeſaid
+<pb facs="tcp:152001:7"/>
+ſhall not begin till this day twelue moneth: alwaies pro<g ref="char:EOLhyphen"/>uided, that if notice of the ſaid Truce may ſooner bee ſent vnto them, that from that time forth all Actes of hoſtilitie ſhall ceaſe, but if after the ſpace of one yeere, any act of hoſtilitie ſhal there be vſed and committed, the dammages done and receiued thereby, ſhall bee reſtored againe with<g ref="char:EOLhyphen"/>out any remiſſion.</p>
+            <p>
+               <label>VI.</label> That the Subiects and Inhabitants of the Countries of the ſaid King, Archdukes, and States, trading and traffick<g ref="char:EOLhyphen"/>ing mutually in each others Countries, ſhall not be bound to pay greater cuſtomes, rights and impoſitions, then the naturall ſubiects of the ſaid Countries, and of their friends and allies, that ſhall in that point be leaſt charged and bur<g ref="char:EOLhyphen"/>thened.</p>
+            <p>
+               <label>VII.</label> That the Subiects and Inhabitants of the States in the vnited Prouinces, ſhall haue the ſame ſecuritie and libertie in the Countries of the ſaid King and the Archdukes, that hath beene granted vnto the Subiects of the King of great Brittaine, by the laſt Treatie of Peace, and ſecret Articles made and concluded with the Conſtable of Caſtile.</p>
+            <p>
+               <label>VIII.</label> That the Marchants, Maſters of ſhips, Pilots, Saylers, Ships, Merchandiſes, Money, and other goods belonging vnto them, ſhall not be ſeiſed vpon nor arreſted, by vertue of any Mandament or Commiſſion generall or particu<g ref="char:EOLhyphen"/>lar, nor for any cauſe concerning the warres, or otherwiſe, neither yet vnder any pretence of vſing them or any of them for the conſeruation and defence of the Countries on either ſide. Neuertheleſſe it is to be vnderſtood, that Seaſures and Areſts made by the ordinarie wayes of Law,
+<pb facs="tcp:152001:7" rendition="simple:additions"/>
+and Iuſtice, for Debts, Obligations and contracts depen<g ref="char:EOLhyphen"/>ding thereon, whereby the ſaid Seaſures and Areſts haue beene made, ſhall not bee comprehended herein, but that touching them, they ſhall bee proceeded in according to the ordinarie cuſtomes of Law and reaſon.</p>
+            <p>
+               <label>IX.</label> And touching Trade and Traficke in the Netherlands, and the Taxes and Impoſitions that ſhall be taken and Le<g ref="char:EOLhyphen"/>uied vpon Wares and Merchandiſes, if hereafter it ſhall be found that they are exceſſiue great and intollerable, and that thereby ſome hinderance may growe vnto the Sub<g ref="char:EOLhyphen"/>iects of the ſaid Countryes, vpon the firſt motion and re<g ref="char:EOLhyphen"/>queſt made by the one, or the other part, certaine Com<g ref="char:EOLhyphen"/>mitties ſhall be appointed to order and moderate the ſame, by common conſent, if it may bee done. And yet neuer<g ref="char:EOLhyphen"/>theleſſe, without any breach of the Truce, although they cannot agree vpon the ſame.</p>
+            <p>
+               <label>X.</label> If any ſentences or iudgements ſhall haue beene giuen vpon, or againſt any perſon on either ſide, (not excepted) either in ciuill or criminal cauſes, they ſhal not be executed vpon the perſons or goods of the parties condemned, du<g ref="char:EOLhyphen"/>ring the time of the ſaid Truce.</p>
+            <p>
+               <label>XI.</label> That no letters of Marte, and repriſall ſhall bee granted or giuen out, during the ſaid time, without good cauſe knowne, and in ſuch caſes wherein it is permitted to be done, by the imperiall lawes and Conſtitutions, and ac<g ref="char:EOLhyphen"/>cording to the Orders eſtabliſhed and appointed by them.</p>
+            <p>
+               <label>XII.</label> That it ſhall not be lawfull to arriue, enter nor ſtay in
+<pb facs="tcp:152001:8"/>
+any Port, Hauen, Place or Roade in the countrie on either ſide, with Shippes, or ſuch numbers of Souldiers as may breede any cauſe of ſuſpition, without the leaue and per<g ref="char:EOLhyphen"/>miſſion of him or them, to whom the ſaid Ports, Hauens, Places and Roades ſhal belong and appertaine, vnleſſe they be forced to doe it by tempeſts, or of meere neceſſity, to a<g ref="char:EOLhyphen"/>uoyde the danger of the Seas.</p>
+            <p>
+               <label>XIII.</label> That they, whoſe goods and lands haue bin ſeaſed vpon and confiſcated by meanes of the warres, or their heires, ha<g ref="char:EOLhyphen"/>uing good cauſe, ſhall enioy their ſaid goods during the ſaid truce; and ſhall enter and take poſſeſſion thereof, by their owne priuate authority, and by vertue of this preſent Treatie, without any recourſe vnto Law or Iuſtice: Not<g ref="char:EOLhyphen"/>withſtanding, any Incorporations, Confiſcations, Mor<g ref="char:EOLhyphen"/>gages, Gifts, Contracts, Articles of agreement and tranſ<g ref="char:EOLhyphen"/>portations, or any renunciations made in the ſaid tranſ<g ref="char:EOLhyphen"/>portations, thereby to exclude any part of the ſaid lands and goods, from them to whom they ought to appertaine; vpon charge and condition, neuertheleſſe, that they ney<g ref="char:EOLhyphen"/>ther ſhall nor may diſpoſe thereof, nor yet raiſe nor dimi<g ref="char:EOLhyphen"/>niſh the rents of the ſame, during the time that they ſhall enioy and poſſeſſe them, without licence and permiſſion firſt had, and obtained from the ſaid Archdukes or the States.</p>
+            <p>
+               <label>XIIII.</label> Which alſo ſhall take place for, and to the profite of the heire of the Prince of Orange deceaſed: namely, tou<g ref="char:EOLhyphen"/>ching the rights which they pretend to haue in the ſalt pondes, in the Countie of Bourgoigne, which ſhall be per<g ref="char:EOLhyphen"/>mitted and quietly left vnto them; together with the Woods belonging to the ſame. And touching the Pro<g ref="char:EOLhyphen"/>ceſſe
+<pb facs="tcp:152001:8" rendition="simple:additions"/>
+concerning Chaſtelbelin, begun in the life time of the ſaid Prince of Orenge deceaſed, in the Court of Madrynes, againſt the King of Spaines Attorney generall; the ſayde Archdukes faithfully promiſe, to cauſe Iuſtice to bee done therein, within the ſpace of one yeare next enſuing, after the purſuite by them to be made, without any delay, and with all ſincerity and right.</p>
+            <p>
+               <label>XV.</label> If the Fiſcall on either ſide, ſhall haue ſolde any goods or lands confiſcated; they, to whom they ought to apper<g ref="char:EOLhyphen"/>taine, by vertue of this preſent Treatie, ſhall be bound to content themſelues with the intereſt of the price thereof, according to the laſt ſeaſure, which ſhal be paide vnto them yearely during the Truce, by them that holde and poſſeſſe the ſame, or elſe it ſhal be lawful for them to adreſſe them<g ref="char:EOLhyphen"/>ſelues vnto the Heritage it ſelfe that hath bin ſold.</p>
+            <p>
+               <label>XVI.</label> But if the ſaid Sales haue beene made by order of Law and Iuſtice, for, and in conſideration of the Truce, and law<g ref="char:EOLhyphen"/>full debts of thoſe, to whom the ſaid lands and goods did appertaine before the confiſcation made, it ſhall be lawful for them, or their heires vpon occaſion offered, to redeeme them, paying the ſumme for the which they were ſolde, within one yeares time from the day of this preſent Trea<g ref="char:EOLhyphen"/>tie: after the which time, they ſhall not be permitted to do it; and the ſaid redemption hauing bin made by them, they may diſpoſe thereof as they ſhall thinke good, without ſee<g ref="char:EOLhyphen"/>king after any other licence or permiſſion.</p>
+            <p>
+               <label>XVII.</label> Neuertheleſſe, it is not vnderſtood that this redempti<g ref="char:EOLhyphen"/>on ſhall tend vnto, or concerne ſuch houſes as are ſituated in townes, and ſold for that cauſe, in regard of the great diſ<g ref="char:EOLhyphen"/>commodities
+<pb facs="tcp:152001:9"/>
+&amp; notable damages that the poſſeſſors therof ſhall thereby reape, by meanes of the alterations and repa<g ref="char:EOLhyphen"/>rations that they may haue made and done, in, and vnto the ſaid houſes, whereof the liquidation would be ouer long and difficulte.</p>
+            <p>
+               <label>XVIII.</label> Touching the reparations and alterations, made in, and vpon other lands and goods ſold, which are permitted to be reduced, if there be any ſuch pretence made and called in queſtion; the ordinary Iudges ſhall do each partie right and equity, according to the indifferency of the cauſe, the Inheritances remaining to the owners that ſue for the ſame; for the ſumme wherunto the reparations or alterati<g ref="char:EOLhyphen"/>ons ſhal be priſed, without any right of holding or keeping of poſſeſſion (to be permitted vnto thoſe that ſhall haue bought them) vntill they ſhall be paide and fully ſatisfied therein.</p>
+            <p>
+               <label>XIX.</label> If any fortifications or publike works haue bin made on eyther part with permiſſion and authority of the ſuperiors, in ſuch places where reſtitution ought to be made by this preſent Treatie; the proprietaries therof ſhal content them<g ref="char:EOLhyphen"/>ſelues with the eſtimation and valuation that ſhall be made thereof, by the ordinary Iudges, both of the ſaid places, and alſo of the iuriſdiction that they had therein, vntill the par<g ref="char:EOLhyphen"/>ties themſelues can otherwiſe agree thereon.</p>
+            <p>
+               <label>XX.</label> Touching the lands and goods of Churches, Colledges, and other ſpirituall places, within the vnited Prouinces, that were members depending vpon, and belonging vnto the Churches, Benefices and Colledges, that are vnder the obedience of the Archduke, which haue not bin ſolde be<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:152001:9" rendition="simple:additions"/>
+the firſt of Ianuary 1607. ſhall be reſtored vnto them againe; and they ſhall enter into, and poſſeſſe the ſame by their own priuat authority, without any officer of Iuſtice, and ſhall enioy the ſame during the ſaid Truce, &amp; yet with<g ref="char:EOLhyphen"/>out diſpoſing thereof as aforeſaid; but ſuch lands and goods as haue beene ſolde before the ſaid time, or giuen in payment by the Sates of any of the Prouinces; the rent of the value thereof, ſhall be paid them euery yeare, accor<g ref="char:EOLhyphen"/>ding to the laſt ſeaſure, by the Prouince that ſhall haue made the ſaid ſale, and giuen or aſſigned the ſaid goods in payment as aforeſaid, ſo that they may be aſſured thereof. The like ſhall be done and obſerued on the part and be<g ref="char:EOLhyphen"/>halfe of the ſaid Archdukes.</p>
+            <p>
+               <label>XXI.</label> Thoſe to whom the goods and lands confiſcated ought to be reſtored, ſhall not be bound to pay the arera<g ref="char:EOLhyphen"/>ges of rents, charges and dueties, ſpecially impoſed and re<g ref="char:EOLhyphen"/>ſerued vpon the ſaid lands and goods, for the time that they enioyed not the ſame; and if they be ſued, moleſted or troubled for the ſame, on either part, they ſhal be freely acquited and abſolued thereof.</p>
+            <p>
+               <label>XXII.</label> No pretence of any payment ſhall be made, touching hedging or ditching of the Lands ſolde, or to bee redee<g ref="char:EOLhyphen"/>med, but onely for ſuch conditions or cuſtoms, as were anciently accuſtomed to be vſed and obſerued, whereunto the Poſſeſſors are bound, by the Articles of agreement made thereupon, with the intereſts of the money payable at the entrie into poſſeſſion, if any haue beene giuen, by reaſon of the laſt ſeiſure, as aforeſaid.</p>
+            <p>
+               <label>XXIII.</label> Iudgements giuen touching lands and goods confiſca<g ref="char:EOLhyphen"/>ted,
+<pb facs="tcp:152001:10" rendition="simple:additions"/>
+againſt ſuch parties as haue obeyed the Iudges, and haue bin lawfully excepted, ſhall be held for good and law<g ref="char:EOLhyphen"/>full, wherein ſuch as are condemned, ſhall not be permit<g ref="char:EOLhyphen"/>ted or allowed any appeale, but only by ordinary meanes.</p>
+            <p>
+               <label>XXIIII.</label> The ſaid Archdukes, and the States, either of them for their parts, ſhall appoint Officers and Magiſtrates to ad<g ref="char:EOLhyphen"/>miniſter law and iuſtice in the Townes, and ſtrong Holds, which by this preſent Treatie, are to bee yeelded vp, vnto ſuch as owe them, to enioy them according to the Truce.</p>
+            <p>
+               <label>XXV.</label> Such moueable goodes and fruits as are and haue beene confiſcated before the concluſion of this preſent Treatie, ſhall not be ſubiect vnto reſtitution.</p>
+            <p>
+               <label>XXVI.</label> Such actions or ſuites, as haue bin remitted by the ſaid Archdukes or the States, for the profite of particular debtors, before the firſt of Ianuarie 1607. ſhall bee diſ<g ref="char:EOLhyphen"/>anulled on both ſides.</p>
+            <p>
+               <label>XXVII.</label> The time that hath paſt ſince the beginning of the warres, from the yeere of our Lord 1567. vntill this pre<g ref="char:EOLhyphen"/>ſent yeere, ſhall not bee reckoned to induce any preſcripti<g ref="char:EOLhyphen"/>on, betweene ſuch perſons as were of diuers parties.</p>
+            <p>
+               <label>XXVIII.</label> Thoſe that withdrew themſelues into neuter Coun<g ref="char:EOLhyphen"/>tries, during the warres, ſhall alſo enioy the benefite of this Truce, and may dwell and inhabite where they ſhall thinke good, and returne againe vnto their ancient habitations, there to dwell and continue in all ſecuritie, obſeruing the lawes of the Countrie, and no occaſion of dwelling in a<g ref="char:EOLhyphen"/>ny place, where they ſhall thinke good, ſhall be any cauſe,
+<pb facs="tcp:152001:10" rendition="simple:additions"/>
+why their goods ſhall or may be confiſcated, or ſeaſed vp<g ref="char:EOLhyphen"/>on, nor they ſhall not in that caſe bee depriued of the en<g ref="char:EOLhyphen"/>ioying thereof.</p>
+            <p>
+               <label>XXIX.</label> No newe Forts ſhall bee made during the ſaid Truce, within the Low Countries, neither on the one ſide nor the other.</p>
+            <p>
+               <label>XXX.</label> The Lords of the Houſe of <hi>Naſſaw,</hi> ſhall not be purſu<g ref="char:EOLhyphen"/>ed, or yet moleſted, during the ſaid Truce, neither in their perſons, goods nor lands, for any debts made by the ſaid Prince of <hi>Orange</hi> deceaſed, from the yeere of our Lord, 1567. vntill the day of his death, nor yet of the arrerages hapned and fallen out, during the ſeaſing and withholding of the lands and goods that were chargeable for the ſame.</p>
+            <p>
+               <label>XXXI.</label> If there be any preuentions of the Truce made by any particular perſons, without the commandement or per<g ref="char:EOLhyphen"/>miſſion of the ſaid King, Archdukes, or States, the dam<g ref="char:EOLhyphen"/>mages ſhall be recouered in the ſame place, where the ſaid Preuentions haue bin made, if the parties bee found there<g ref="char:EOLhyphen"/>in, or elſe in the place where they ſhall dwell, without any purſuite elſewhere to be made againſt them, either in their bodies or goods, in any ſort whatſoeuer: neither ſhall it be lawful for them to enter into armes, or to breake the Truce for that occaſion, but they ſhall be permitted (if it be mani<g ref="char:EOLhyphen"/>feſtly proued that iuſtice ſhall in that caſe be denyed) to re<g ref="char:EOLhyphen"/>medie themſelues, as the maner is, by letters of marte or repriſals.</p>
+            <p>
+               <label>XXXII.</label> All diſ-inheritings and diſpoſitions made of landes in
+<pb facs="tcp:152001:11"/>
+hatred and diſpight of the whore, are hereby declared void, and vtterly fruſtrated.</p>
+            <p>
+               <label>XXXIII.</label> The Subiects and Inhabitants of the Countries of the ſaid Archdukes, and the States, of what ſtate and conditi<g ref="char:EOLhyphen"/>on ſoeuer they bee, are hereby declared capable to bee heires and ſucceſſors one vnto the other, both by teſta<g ref="char:EOLhyphen"/>ment, and alſo <hi>ab inteſtato,</hi> according to the cuſtomes of the places: and if any Succeſſions did heretofore fall and eſcheat vnto any of them, they ſhall be maintayned and conſerued.</p>
+            <p>
+               <label>XXXIIII.</label> All Priſoners of the warres, ſhall be deliuered on both Sides, without paying any ranſomes.</p>
+            <p>
+               <label>XXXV.</label> And to the end that this preſent Treatie ſhall the better be obſerued and kept, The ſaid King of <hi>Spaine,</hi> the Arch<g ref="char:EOLhyphen"/>dukes, and the States doe particularly promiſe, to vphold and maintaine the ſame, and each of them to vſe all the meanes they can to make all the paſſages Free, and to cauſe the Seas and Riuers within the Land to be kept free and Nauigable, againſt the incurſions of mutinous Per<g ref="char:EOLhyphen"/>ſons, Pirates, Curſaries and Theeues, and that if they can apprehend and take them, to cauſe them to bee rigorouſly puniſhed according to their deſerts.</p>
+            <p>
+               <label>XXXVI.</label> They doe alſo promiſe, to doe nothing contrarie, or to the preiudice of this preſent Treatie, nor to ſuffer the ſame to bee done directly or indirectly in my wife whatſoeuer, and that if any ſuch thing be done, to cauſe it to bee amen<g ref="char:EOLhyphen"/>ded and recompenced; without any difficultie or delay. And for the obſeruation of all the former Articles, the
+<pb facs="tcp:152001:11" rendition="simple:additions"/>
+ſaid King of <hi>Spaine</hi> and the Archdukes and their Succeſ<g ref="char:EOLhyphen"/>ſors, bind themſelues particularly, and for the more and better aſſurance of their ſaid Obligations and promiſes, they renownce all Lawes, Cuſtomes and things whatſo<g ref="char:EOLhyphen"/>euer contrarie to the ſame.</p>
+            <p>
+               <label>XXXVII.</label> That this preſent Treatie ſhall be ratified, and approo<g ref="char:EOLhyphen"/>ued by the ſaid Kings, the Archdukes and the States, and the Letters of ratification made by the ſaid Archdukes and the States, to bee deliuered by the one vnto the other, in good and due forme, within foure dayes next enſuing. And touching the ratification to bee made by then ſaid King of <hi>Spaine,</hi> The ſaid Archdukes haue promiſed, and are bound, to giue and deliuer it vnto the ſaid States, within three Moneths in good and due forme, to the end that the ſaid States, and their Subiects and Inhabitants, may effectu<g ref="char:EOLhyphen"/>ally enioy the fruites of this preſent Treatie with all ſe<g ref="char:EOLhyphen"/>curitie.</p>
+            <p>
+               <label>XXXVIII.</label> That the ſaid Treatie ſhall bee publiſhed in all places, where it is vſually to bee Proclaimed, preſently after the ratification made by the ſaid Archdukes and the States, and that preſently and from henceforth all Acts of Ho<g ref="char:EOLhyphen"/>ſtilitie ſhall ceaſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152001:12"/>
+            <pb facs="tcp:152001:12" rendition="simple:additions"/>
+            <pb facs="tcp:152001:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
